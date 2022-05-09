@@ -22,7 +22,8 @@ use pocketmine\Server;
 use pocketmine\utils\TextFormat;
 use pocketmine\world\Position;
 use pocketmine\world\World;
-
+use jojoe77777\FormAPI\SimpleForm;
+use jojoe77777\FormAPI\CustomForm;
 
 
 class Arena implements Listener
